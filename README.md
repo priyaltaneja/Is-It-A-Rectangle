@@ -5,4 +5,6 @@ Given four integers (A,B,C,D), determine whether or not they form a rectangle. C
 ## The Solution
 On the other hand, quantum circuits can prepare a superposition of all possible orderings of the four integers in a single quantum state and perform the necessary checks in parallel. This means that it usually only takes one computation to determine whether or not the sidelengths are able to create a rectangle.
 
+
+
 *This project was created as an application to the [QOSF mentorship program](https://qosf.org/qc_mentorship/).*
